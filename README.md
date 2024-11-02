@@ -5,4 +5,6 @@ When you compile, copy the icons folder to the same directory as your exe otherw
 
 You can change the icons by changing the .ico file in icons folder and keeping the same name
 
+Right click icon and click close to close the program
+
 Icons from [icons8](https://icons8.com/)
