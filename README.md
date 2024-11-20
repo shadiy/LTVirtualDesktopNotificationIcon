@@ -1,4 +1,6 @@
 # LTVirtualDesktopNotificationIcon
+For Windows
+
 Add a notification icon in the system tray of the current virtual desktop index
 
 When you compile, copy the icons folder to the same directory as your exe otherwise icons will be invisible
